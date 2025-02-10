@@ -1,0 +1,2 @@
+[console_scripts]
+tweet = tweet_cli_tool.cli:main
