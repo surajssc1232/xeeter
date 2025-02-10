@@ -18,7 +18,7 @@ A sleek command-line tool that lets you post tweets directly from your terminal.
 1. Clone the repository:
    ```bash
    git clone https://github.com/surajssc1232/xeeter.git
-   cd tweet-cli-tool
+   cd xeeter
    ```
 
 2. Install dependencies:
