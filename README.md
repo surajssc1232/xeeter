@@ -192,7 +192,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, feel free to reach out:
 - Create an issue in this repository
-- Follow me on Twitter: [@yourusername](https://twitter.com/surajkhahai)
+- Follow me on Twitter: [@surajkhahai](https://twitter.com/surajkhahai)
 
 ---
 Made with ❤️ by suraj <3.
