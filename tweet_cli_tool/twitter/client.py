@@ -27,5 +27,7 @@ class TwitterClient:
         try:
             response = self.client.create_tweet(text=message)
             return response
+        except tweepy.errors.Forbidden as e:
+            raise Exception(f"Twitter API error: {str(e)}")
         except Exception as e:
             raise Exception(f"Failed to post tweet: {str(e)}") 
